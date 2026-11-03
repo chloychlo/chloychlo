@@ -1,16 +1,21 @@
-## Hi there 👋
+# Chloé Dubray
 
-<!--
-**chloychlo/chloychlo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bioinformatics & Computational Biology | Data Science | Scientific Computing**
 
-Here are some ideas to get you started:
+Engineering graduate from École Centrale de Lyon, currently pursuing an MSc in Bioinformatics and Modelling at Sorbonne Université.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in quantitative approaches to biological questions, particularly:
+
+- Population genetics and evolutionary genomics
+- Mathematical modelling of biological systems
+- Statistical analysis of genomic data
+- Biological networks and computational methods
+
+### Selected projects
+
+- **GPOP** — Stochastic simulations of evolutionary dynamics and population genetics.
+- **PHYLOGENY-AND-GENOMICS** — Computational approaches to genomic sequence analysis.
+
+### Technical interests
+
+Python · R · Statistics · Stochastic modelling · Machine learning · Graph theory · Bioinformatics
