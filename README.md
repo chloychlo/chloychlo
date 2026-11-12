@@ -1,6 +1,3 @@
-# Chloé Dubray
-**Bioinformatics & Computational Biology**
-
 Hi I’m Chloé :) 
 I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling (BIM) at Sorbonne Université (Paris). 
 
