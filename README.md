@@ -28,4 +28,5 @@ Engineering graduate from **École Centrale de Lyon**, currently pursuing an **M
 
 ### Contact
 * **Email:** [ca.dubray@gmail.com](mailto:ca.dubray@gmail.com)
-* **CV:**
+* **CV:** [![CV EN](https://img.shields.io/badge/CV_English-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/chloychlo/cv/blob/main/cv_en.pdf)
+[![CV FR](https://img.shields.io/badge/CV_Français-2ea44f?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/chloychlo/cv/blob/main/cv_fr.pdf)
