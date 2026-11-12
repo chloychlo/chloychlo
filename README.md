@@ -1,5 +1,5 @@
 ### Hi there :) 
-I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling (BIM) at Sorbonne Université (Paris). I am currently seeking a research internship / PhD position starting from February 2027 in evolutionary genomics, population genetics, phylogeny, or quantitative biology.
+I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling (BIM) at Sorbonne Université (Paris). I am currently seeking a research internship / PhD position starting from February 2027 in evolutionary genomics, population genetics, phylogenetics, or quantitative biology.
 
 ---
 
