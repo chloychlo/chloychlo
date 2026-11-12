@@ -2,7 +2,7 @@
 **Bioinformatics & Computational Biology**
 
 Hi I’m Chloé :) 
-I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling (BIM) atSorbonne Université (Paris). 
+I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling (BIM) at Sorbonne Université (Paris). 
 
 **Current status:** Seeking a **research internship / PhD position** starting from **February 2027** in evolutionary genomics, population genetics, or quantitative biology.
 
