@@ -27,5 +27,5 @@ Engineering graduate from **École Centrale de Lyon**, currently pursuing an **M
 ---
 
 ### Contact
-* **Email:** ca.dubray@gmail.com](mailto:ca.dubray@gmail.com)
+* **Email:** [ca.dubray@gmail.com](mailto:ca.dubray@gmail.com)
 * **CV:**
