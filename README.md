@@ -1,7 +1,7 @@
 # Chloé Dubray
 **Bioinformatics & Computational Biology**
 
-Engineering graduate from **École Centrale de Lyon**, currently pursuing an **MSc in Bioinformatics and Modelling (BIM)** at **Sorbonne Université** (Paris). 
+Hi I’m Chloé :) i am an engineering graduate from École Centrale de Lyon, currently pursuing an MSc in Bioinformatics and Modelling (BIM) atSorbonne Université (Paris). 
 
 **Current status:** Seeking a **research internship / PhD position** starting from **February 2027** in evolutionary genomics, population genetics, or quantitative biology.
 
