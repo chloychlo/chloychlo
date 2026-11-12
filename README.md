@@ -1,13 +1,13 @@
 ### Hi there :) 
-I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling (BIM) at Sorbonne Université (Paris). I am currently seeking a research internship / PhD position starting from February 2027 in evolutionary genomics, population genetics, phylogenetics, or quantitative biology.
+I am an engineering graduate from École Centrale de Lyon, former Data Engineer, currently pursuing an MSc in Bioinformatics and Modelling at Sorbonne University. I am currently seeking a research internship / PhD position starting from February 2027 in evolutionary genomics, population genetics, phylogenetics, or quantitative biology.
 
 ---
 
 ### My interests
-* **Population Genetics & Evolutionary Genomics:** Inferring demographic history, selection signatures, and evolutionary dynamics.
-* **Mathematical & Stochastic Modelling:** Dynamical systems, stochastic processes, and mechanistic modelling of biological systems.
+* **Population Genetics & Evolutionary Genomics:** Inferring demographic history and evolutionary dynamics.
+* **Mathematical & Stochastic Modelling:** Dynamical systems, stochastic processes, and modelling of biological systems.
 * **Statistical Genomics & Phylogenetics:** Sequence analysis, comparative genomics, and phylogenetic inference.
-* **Biological Networks:** Graph theory and computational approaches applied to cellular or ecological systems.
+* **Biological Networks:** Graph theory and computational approaches to model biological interaction networks.
 
 ---
 
