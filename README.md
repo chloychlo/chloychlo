@@ -16,8 +16,9 @@ Engineering graduate from **École Centrale de Lyon**, currently pursuing an **M
 ---
 
 ### Projects
-* **[GPOP](https://github.com/chloychlo/GPOP)** — Stochastic simulations of evolutionary dynamics and population genetics *(Wright-Fisher, genetic drift, selection, coalescent)*.
+* **[POPULATION-GENETICS](https://github.com/chloychlo/POPULATION-GENETICS)** — Stochastic simulations of evolutionary dynamics and population genetics *(Wright-Fisher, genetic drift, selection, coalescent)*.
 * **[PHYLOGENY-AND-GENOMICS](https://github.com/chloychlo/PHYLOGENY-AND-GENOMICS)** — Computational approaches to genomic sequence analysis, multiple sequence alignment, and phylogenetic reconstruction.
+* **[BRCA1-PATHOGENICITY-PREDICTOR](https://github.com/chloychlo/BRCA1-PATHOGENICITY-PREDICTOR)** - Training and testing of machine learning approaches to predict the pathogenicity of BRCA1 variants.
 
 ---
 
