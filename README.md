@@ -16,7 +16,7 @@ Engineering graduate from **École Centrale de Lyon**, currently pursuing an **M
 ---
 
 ### Technical Stack
-* **Languages:** Python (NumPy, SciPy, Pandas), R 
+* **Languages:** Python, R 
 
 ---
 
