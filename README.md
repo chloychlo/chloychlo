@@ -1,19 +1,31 @@
 # Chloé Dubray
-
 **Bioinformatics & Computational Biology**
 
-Engineering graduate from École Centrale de Lyon, currently pursuing an MSc in Bioinformatics and Modelling at Sorbonne Université.
+Engineering graduate from **École Centrale de Lyon**, currently pursuing an **MSc in Bioinformatics and Modelling (BIM)** at **Sorbonne Université** (Paris). 
 
-Interested in quantitative approaches to biological questions, particularly:
+**Current status:** Seeking a **research internship / PhD position** starting from **February 2027** in evolutionary genomics, population genetics, or quantitative biology.
 
-- Population genetics and evolutionary genomics
-- Mathematical modelling of biological systems
-- Statistical analysis of genomic data
-- Biological networks and computational methods
+---
 
-### Repos
+### Research Interests
+* **Population Genetics & Evolutionary Genomics:** Inferring demographic history, selection signatures, and evolutionary dynamics.
+* **Mathematical & Stochastic Modelling:** Dynamical systems, stochastic processes, and mechanistic modelling of biological systems.
+* **Statistical Genomics & Phylogenetics:** Sequence analysis, comparative genomics, and phylogenetic inference.
+* **Biological Networks:** Graph theory and computational approaches applied to cellular or ecological systems.
 
-- **GPOP** — Stochastic simulations of evolutionary dynamics and population genetics.
-- **PHYLOGENY-AND-GENOMICS** — Computational approaches to genomic sequence analysis.
+---
 
+### Technical Stack
+* **Languages:** Python (NumPy, SciPy, Pandas), R 
 
+---
+
+### Projects
+* **[GPOP](https://github.com/chloychlo/GPOP)** — Stochastic simulations of evolutionary dynamics and population genetics *(Wright-Fisher, genetic drift, selection, coalescent)*.
+* **[PHYLOGENY-AND-GENOMICS](https://github.com/chloychlo/PHYLOGENY-AND-GENOMICS)** — Computational approaches to genomic sequence analysis, multiple sequence alignment, and phylogenetic reconstruction.
+
+---
+
+### Contact
+* **Email:** ca.dubray@gmail.com](mailto:ca.dubray@gmail.com)
+* **CV:**
